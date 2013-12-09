@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__.'/../silex.phar';
+/*require_once __DIR__.'/../silex.phar';
 require_once __DIR__.'/../_config.php';
 
 use Symfony\Component\HttpFoundation\Request;
@@ -37,7 +37,8 @@ $app->get('/', function() use ($app, $config) {
     ));
 });
 
-$app->run();
+$app->run();*/
+echo '123';
 
 ?>
 
